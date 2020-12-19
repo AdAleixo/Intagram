@@ -1,3 +1,3 @@
-# js-efrkun
+Recriando LandPage do Instagram.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-efrkun)
+Projeto Decola Avanade.
